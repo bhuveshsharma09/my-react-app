@@ -1,4 +1,6 @@
 # React web app to call API to computer fibonacci sequence
+![image](https://user-images.githubusercontent.com/62707309/143734931-21a98e29-e9ec-45ab-a3f3-74acc416aef3.png)
+
 Simple react web app which takes number value from user and calls an API to compute the fibonacci sequence.
 
 **Link of the dropwizard API:** https://github.com/bhuveshsharma09/my-dropwiz-app
